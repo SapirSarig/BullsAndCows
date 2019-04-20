@@ -1,0 +1,2 @@
+C:\Users\Admin\Downloads\משחק ארבע בשורה פיתוח בC#\B17 Ex05 MeitalMachorlo 307928929 SapirSarig 308458231\B17 Ex05\obj\Debug\B17 Ex05.exe
+C:\Users\Admin\Downloads\משחק ארבע בשורה פיתוח בC#\B17 Ex05 MeitalMachorlo 307928929 SapirSarig 308458231\B17 Ex05\obj\Debug\B17 Ex05.pdb
